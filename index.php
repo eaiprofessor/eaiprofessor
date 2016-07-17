@@ -22,4 +22,4 @@ else
 
 
 $sm->assign("nome",$page);
-$sm->display("{$page}.html");
+$sm->display("{$page}.php");

@@ -23,7 +23,7 @@ if ($_valid && !is_callable('content_5782485a63ce67_94538062')) {
 function content_5782485a63ce67_94538062 ($_smarty_tpl) {
 
 $_smarty_tpl->properties['nocache_hash'] = '170935782485a5d49b0_40203247';
-echo $_smarty_tpl->getSubTemplate ("view/inicio.html", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
+echo $_smarty_tpl->getSubTemplate ("view/inicio.php", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
 ?>
 
 

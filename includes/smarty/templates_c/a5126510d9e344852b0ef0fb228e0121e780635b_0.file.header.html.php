@@ -1,5 +1,5 @@
 <?php /* Smarty version 3.1.24, created on 2016-07-16 17:00:52
-         compiled from "C:/Users/igorc/OneDrive/codigosPHP/login3c/view/includes/header.html" */ ?>
+         compiled from "C:/Users/igorc/OneDrive/codigosPHP/login3c/view/includes/header.php" */ ?>
 <?php
 /*%%SmartyHeaderCode:31657578a4c248fe052_83952790%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
@@ -8,7 +8,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     'a5126510d9e344852b0ef0fb228e0121e780635b' => 
     array (
-      0 => 'C:/Users/igorc/OneDrive/codigosPHP/login3c/view/includes/header.html',
+      0 => 'C:/Users/igorc/OneDrive/codigosPHP/login3c/view/includes/header.php',
       1 => 1468680971,
       2 => 'file',
     ),

@@ -1,5 +1,5 @@
 <?php /* Smarty version 3.1.24, created on 2016-05-04 17:04:41
-         compiled from "G:/PLAO/PLAOlll/projetos/ini3cm/login3c/view/inicio.html" */ ?>
+         compiled from "G:/PLAO/PLAOlll/projetos/ini3cm/login3c/view/inicio.php" */ ?>
 <?php
 /*%%SmartyHeaderCode:23522572a0f89e5bce6_13963664%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
@@ -8,7 +8,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     '935169ce514fb248230d18d9d1c8360920bdfd76' => 
     array (
-      0 => 'G:/PLAO/PLAOlll/projetos/ini3cm/login3c/view/inicio.html',
+      0 => 'G:/PLAO/PLAOlll/projetos/ini3cm/login3c/view/inicio.php',
       1 => 1462373393,
       2 => 'file',
     ),

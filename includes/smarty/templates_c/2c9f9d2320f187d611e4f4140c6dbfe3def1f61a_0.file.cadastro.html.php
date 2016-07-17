@@ -27,12 +27,12 @@ $_smarty_tpl->properties['nocache_hash'] = '24555578a627e26f3d4_23362736';
 <!DOCTYPE html>
 <html>
 <head>
-    <?php echo $_smarty_tpl->getSubTemplate ("view/includes/head.html", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
+    <?php echo $_smarty_tpl->getSubTemplate ("view/includes/head.php", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
 ?>
 
 </head>
 <body>
-<?php echo $_smarty_tpl->getSubTemplate ("view/includes/header.html", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
+<?php echo $_smarty_tpl->getSubTemplate ("view/includes/header.php", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
 ?>
 
 
@@ -70,7 +70,7 @@ $_smarty_tpl->properties['nocache_hash'] = '24555578a627e26f3d4_23362736';
     </form>
 </section>
 
-<?php echo $_smarty_tpl->getSubTemplate ("view/includes/footer.html", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
+<?php echo $_smarty_tpl->getSubTemplate ("view/includes/footer.php", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
 ?>
 
 </body>

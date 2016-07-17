@@ -1,5 +1,5 @@
 <?php /* Smarty version 3.1.24, created on 2016-07-16 17:00:52
-         compiled from "view/inicio.html" */ ?>
+         compiled from "view/inicio.php" */ ?>
 <?php
 /*%%SmartyHeaderCode:18547578a4c247c0425_72958866%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
@@ -27,12 +27,12 @@ $_smarty_tpl->properties['nocache_hash'] = '18547578a4c247c0425_72958866';
 <!DOCTYPE html>
 <html>
     <head>
-        <?php echo $_smarty_tpl->getSubTemplate ("view/includes/head.html", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
+        <?php echo $_smarty_tpl->getSubTemplate ("view/includes/head.php", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
 ?>
 
     </head>
     <body>
-        <?php echo $_smarty_tpl->getSubTemplate ("view/includes/header.html", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
+        <?php echo $_smarty_tpl->getSubTemplate ("view/includes/header.php", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
 ?>
 
 
@@ -40,7 +40,7 @@ $_smarty_tpl->properties['nocache_hash'] = '18547578a4c247c0425_72958866';
 
         </section>
 
-        <?php echo $_smarty_tpl->getSubTemplate ("view/includes/footer.html", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
+        <?php echo $_smarty_tpl->getSubTemplate ("view/includes/footer.php", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0);
 ?>
 
     </body>
