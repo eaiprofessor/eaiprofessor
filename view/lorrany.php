@@ -6,7 +6,7 @@
     {include file="view/includes/head.php"}
 </head>
 <body>
-{include file="view/includes/header.php"}
-{include file="view/includes/footer.php"}
+    {include file="view/includes/header.php"}
+    {include file="view/includes/footer.php"}
 </body>
 </html>
