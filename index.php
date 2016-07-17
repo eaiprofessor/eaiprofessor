@@ -17,7 +17,7 @@ if ($url[0] != 'index')
 }
 else
 {
-    $page = 'home';
+    $page = 'inicio';
 }
 
 
